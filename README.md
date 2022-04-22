@@ -22,7 +22,7 @@
 
 -  Open to collaborate on a project.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you !</b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I like connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect !</b> :blush:</em>
 
 ### 💼  Things that I'm currently working on: 
 * Data Structures and Algorithms 💫
