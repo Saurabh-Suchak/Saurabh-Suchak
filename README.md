@@ -24,12 +24,12 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I like connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect !</b> :blush:</em>
 
-### 💼  Things that I'm currently working on: 
+###   Things that I'm currently working on 💼: 
 * Data Structures and Algorithms 💫
 * Some Personal Projects
 * Currently getting better at Javascript
 
-## ⚡ Tech Stack
+##  Tech Stack ⚡
 
 
 ### Languages and Tools :
@@ -39,9 +39,18 @@
 ![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+
+## Latest Blog Posts 📝
+
+- [Agile in Action: Realizing the Benefits of Agile Principles and Practices](https://saurabhsuchak.hashnode.dev/agile-in-action-realizing-the-benefits-of-agile-principles-and-practices)
+- [Moja Global: Open-Source Software for Accurate AFOLU Emissions Estimation](https://saurabhsuchak.hashnode.dev/moja-global-open-source-software-for-accurate-afolu-emissions-estimation)
+- [Building RESTful APIs: Principles and Best Practices](https://saurabhsuchak.hashnode.dev/building-restful-apis-principles-and-best-practices)
+- [Deepfake Dilemma: Ethical Challenges of AI- Powered Manipulation](https://saurabhsuchak.hashnode.dev/deepfake-dilemma-ethical-challenges-of-ai-powered-manipulation)
+
+▶ [...read more here](https://saurabhsuchak.hashnode.dev/)
   
 
-## <📈 GitHub Stats >  
+## < GitHub Stats 📈 >  
 
 <!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=Saurabh-Suchak&theme=xcode  -->
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=Saurabh-Suchak&theme=react-dark&hide_border=true) -->
