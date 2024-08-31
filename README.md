@@ -16,7 +16,7 @@
 
 ## About Me 🚀
 
-- :man_student: I am a third year CS student at Shri Ramdeobaba College of Engineering and Management.I am a learner, learning more about open source projects and communities. I believe in the power of community.
+- :man_student: I am a graduate student at San Jose State University .I am a learner, learning more about open source projects and communities. I believe in the power of community.
 
 - :technologist: I am passionate about web development and I enjoy learning new things.
 
@@ -27,7 +27,7 @@
 ###   Things that I'm currently working on 💼: 
 * Data Structures and Algorithms 💫
 * Some Personal Projects
-* Currently getting better at Javascript
+
 
 ##  Tech Stack ⚡
 
